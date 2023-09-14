@@ -1,0 +1,18 @@
+Nama:MUHAMMAD RIZKI YOGA PRATAMA
+NPM:20312050
+Kode Soal:B
+
+1. Sistem apa yang anda kembangkan?
+Jawab:Sistem Klinik XYZ
+
+2. Permasalahan apa yang terjadi pada studi kasus anda?
+Jawab:Belum menerapkan dan memanfaatkan sistem informasi terintegrasi guna mendukung aktivitas klinik. Akibatnya hal tersebut kurang efektif dan efisien terhadap proses registrasi pasien, pelaporan sampai dengan pembayaran sehingga mengakibatkan beban kerja bertambah, penumpukan berkas, proses pencarian informasi cukup lama dan seringkali berisiko kerusakan maupun kehilangan data-data penting.
+
+3. Apa solusi yang dapat anda berikan pada permasalahan tersebut?
+Jawab:Bangun sistem informasi terintegrasi yang mencakup semua aspek pelayanan klinik, mulai dari registrasi pasien, manajemen data pasien, data bidan, hingga pelaporan pembayaran. Sistem ini harus dapat mengakses dan memanipulasi data dari satu pusat data.
+
+4. Apa yang menjadi nilai lebih solusi yang anda hadirkan dari sistem/solusi yang sudah ada?
+Jawab:Solusi yang saya usulkan dirancang khusus untuk memenuhi kebutuhan Klinik Bersalin XYZ, sehingga dapat terintegrasi secara mendalam dengan operasi mereka. Ini berarti lebih efisien dalam mengelola data pasien dan proses klinik secara keseluruhan.
+
+5. Apa saja kendala dan resiko yang mungkin akan anda hadapi selama pengembangan sistem?
+Jawab:anggaran dan masa pengembangan website
